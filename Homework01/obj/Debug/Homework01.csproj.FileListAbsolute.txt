@@ -1,0 +1,6 @@
+D:\軟體設計\[CS253]HomeWork\HomeWork\Homework01\bin\Debug\Homework01.exe.config
+D:\軟體設計\[CS253]HomeWork\HomeWork\Homework01\obj\Debug\Homework01.csprojResolveAssemblyReference.cache
+D:\軟體設計\[CS253]HomeWork\HomeWork\Homework01\bin\Debug\Homework01.exe
+D:\軟體設計\[CS253]HomeWork\HomeWork\Homework01\bin\Debug\Homework01.pdb
+D:\軟體設計\[CS253]HomeWork\HomeWork\Homework01\obj\Debug\Homework01.exe
+D:\軟體設計\[CS253]HomeWork\HomeWork\Homework01\obj\Debug\Homework01.pdb
